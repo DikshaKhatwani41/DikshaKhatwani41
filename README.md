@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dikshakhatwani98@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DikshaKhatwani41/cv](https://github.com/DikshaKhatwani/cv)
+- 📄 Know about my experiences [https://github.com/DikshaKhatwani/cv/DikshaKhatwani_CV.pdf](https://github.com/DikshaKhatwani/cv/DikshaKhatwani_CV.pdf)
 
 - ⚡ Fun fact **I like to Paint and Sketch**
 
