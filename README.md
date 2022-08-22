@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DikshaKhatwani41/portfolio](https://github.com/DikshaKhatwani41/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/DikshaKhatwani41/cv/blob/main/DikshaKhatwani_CV.pdf](https://github.com/DikshaKhatwani41/cv/blob/main/DikshaKhatwani_CV.pdf)
 
 - 💬 Ask me about **ServiceNow, React, Android, Go, Rest APIs**
 
