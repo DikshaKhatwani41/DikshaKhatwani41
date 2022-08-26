@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 To know more about my work or projects, checkout my portfolio <a href="https://dikshakhatwani41.github.io/" target="blank">here</a>
+- 👨‍💻 To know about my projects, checkout my portfolio <a href="https://dikshakhatwani41.github.io/" target="blank">here</a>
 
-- 💬 Ask me about **ServiceNow, React, Android, Go, Rest APIs**
+- 💬 Ask me about **ServiceNow, Javascript, JSON, React, Android, Go, Rest APIs**
 
 - 📫 How to reach me **dikshakhatwani98@gmail.com**
 
