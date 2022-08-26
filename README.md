@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 To know more about me and my project, checkout my portfolio <a href="https://dikshakhatwani41.github.io/" target="blank">here</a>
+- 👨‍💻 To know more about me and my work or projects, checkout my portfolio <a href="https://dikshakhatwani41.github.io/" target="blank">here</a>
 
 - 💬 Ask me about **ServiceNow, React, Android, Go, Rest APIs**
 
 - 📫 How to reach me **dikshakhatwani98@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DikshaKhatwani/cv/DikshaKhatwani_CV.pdf](https://github.com/DikshaKhatwani/cv/DikshaKhatwani_CV.pdf)
+- 📄 To know about my experience as a developer click [here](https://github.com/DikshaKhatwani41/dikshakhatwani41.github.io/tree/main/assets/cv/Diksha_Khatwani_CV.pdf)
 
 - ⚡ Fun fact **I like to talk to people but only when the topic is interesting**
 
